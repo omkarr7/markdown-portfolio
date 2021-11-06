@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Books 📖
+  * Artemis Fowl
+  * Percy Jackson 
+* Foods 🥘
+  * burger 🍔
+  * pizza 🍕
+  * chicken biryani 🐔
